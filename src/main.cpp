@@ -85,7 +85,6 @@ int main(int argc, char **argv)
 		}
 	}
 
-	// Audacity seem to only accept WAV float files in the range [-1,1)
 	cout << "\nFirst 10 samples:" << endl;
 	for (int i = 0, count = min((size_t)10, float_data.size()); i < count; ++i)
 	{
