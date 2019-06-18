@@ -6,6 +6,6 @@ Command-line syntax:
   csv2wav input.csv output.wav
 ```
 
-[https://github.com/schmid/csv2wav/raw/master/build/csv2wav-win32-x64.zip](Download Win32 x64 build here)
+Download Win32 x64 build here: https://github.com/schmid/csv2wav/raw/master/build/csv2wav-win32-x64.zip
 ## Dependencies
 - http://www.mega-nerd.com/libsndfile/
